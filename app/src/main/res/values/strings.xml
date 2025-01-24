@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_name" translatable="false">NoANRAndCrashDialogs</string>
+    <string name="module_description">Hides “App not responding” and “App has stopped” dialogs.</string>
+</resources>
