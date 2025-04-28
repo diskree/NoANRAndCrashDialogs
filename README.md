@@ -2,7 +2,7 @@
 
 An LSPosed module to hide or auto-dismiss system ANR (App Not Responding) and crash dialogs.
 
-- Tested only on a Pixel 7 running Android 15.
+- Tested on a Pixel 7 and Pixel 8 running Android 15.
 - Requires Root + Magisk + LSPosed.
 - I am not providing build instructions; a prebuilt APK is available in [Releases](https://github.com/diskree/NoANRAndCrashDialogs/releases).
 - I have no plans to adapt this for older Android versions or other devices.
